@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer by day but game developer by heart ❤️. I consider my self a craftsperson, also following many of the XP values, principles and practices.
+I'm a software developer by day but game developer by heart ❤️. I consider my self a craftsperson, also following many of the XP values, principles and practices. Love tests & pair/mob programming!
 
 ### 🧑‍💻 Technologies I'm used to 
 
