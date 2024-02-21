@@ -33,7 +33,7 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 - Accelerate - Nicole Forsgren, Jez Humble, Gene Kim
 - Planning Extreme Programming - Kent Beck, Martin Fowler
 
-#### Partially read, wanna-come-back or paused
+#### ⏸️ Partially read, wanna-come-back or paused
 
 - Working Effectively with Legacy Code - Michael Feathers
 - The Mythical Man-Month - Fred Brooks
