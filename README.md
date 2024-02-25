@@ -30,10 +30,10 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 
 - The Software Craftsman: Professionalism, Pragmatism, Pride - Sandro Mancuso
 - IdeaFlow - Arty Starr
-- Accelerate - Nicole Forsgren, Jez Humble, Gene Kim
+
 - Planning Extreme Programming - Kent Beck, Martin Fowler
 
-#### ⏸️ Partially read, wanna-come-back or paused
+#### ⏸️ Partially read: wanna-come-back or paused
 
 - Working Effectively with Legacy Code - Michael Feathers
 - The Mythical Man-Month - Fred Brooks
@@ -45,6 +45,7 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 - Extreme Progamming Explained 2nd edition - Kent Beck
 - TDD by Example - Kent Beck
 - Unit Testing Principles, Practices, and Patterns - Vladimir Khorikov
+- Accelerate - Nicole Forsgren, Jez Humble, Gene Kim
 - Ensemble Programming Guidebook - Maaret Pyhäjärvi
 - The Unified Sofware Development Process - Ivar Jacobson, Grady Booch, James Rumbaugh
 - UML distilled 3rd edition - Martin Fowler
