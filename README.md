@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer by day but game developer by heart ❤️. I consider my self a craftsperson, also following many of the XP values, principles and practices. Love tests & pair/mob programming!
+I'm a software developer by day but game developer by heart ❤️. I consider myself a craftsperson, also following many of the XP values, principles and practices. Love tests, pair/mob programming & talking about software!
 
 ### 🧑‍💻 Technologies I'm used to 
 
@@ -29,10 +29,8 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 #### 🧰 Active
 
 - The Software Craftsman: Professionalism, Pragmatism, Pride - Sandro Mancuso
-- IdeaFlow - Arty Starr
-
 - Planning Extreme Programming - Kent Beck, Martin Fowler
-
+                    
 #### ⏸️ Partially read: wanna-come-back or paused
 
 - Working Effectively with Legacy Code - Michael Feathers
@@ -41,6 +39,7 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 
 #### 💜 Loved-ones 
 
+- IdeaFlow - Arty Starr
 - Tidy First - Kent Beck
 - Extreme Progamming Explained 2nd edition - Kent Beck
 - TDD by Example - Kent Beck
