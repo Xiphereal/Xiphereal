@@ -14,6 +14,8 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 <img align="left" width="26px" height="26px" title="Unity" alt="Unity" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" />
 <img align="left" width="26px" height="26px" title="Git" alt="Git" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
 <img align="left" width="26px" height="26px" title="Azure DevOps Server" alt="Azure DevOps Server" src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png?f=webp" />
+<img align="left" width="26px" height="26px" title="Visual Studio" alt="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png?20210214224138" />
+<img align="left" width="26px" height="26px" title="Visual Studio Code" alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" width="26px" height="26px" title="GitHub" alt="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
 <img align="left" width="26px" height="26px" title="MarkDown" alt="MarkDown" src="https://user-images.githubusercontent.com/11347395/130453553-322c1932-e148-461e-b62f-c103f564b9b5.png" />
 <img align="left" width="24px" height="26px" title="UML" alt="UML" src="https://joanpaon.files.wordpress.com/2013/05/uml-symbol.gif" />
