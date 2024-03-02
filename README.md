@@ -26,7 +26,7 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 
 ### 📚 Readings 
 
-#### 🧰 Active
+#### ⏯️ Active
 
 - The Software Craftsman: Professionalism, Pragmatism, Pride - Sandro Mancuso
 - Planning Extreme Programming - Kent Beck, Martin Fowler
