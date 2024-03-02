@@ -31,6 +31,7 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 #### ⏯️ Active
 
 - The Software Craftsman: Professionalism, Pragmatism, Pride - Sandro Mancuso
+- Peopleware: Productive Projects and Teams - Tom DeMarco, Tim Lister
 - Planning Extreme Programming - Kent Beck, Martin Fowler
                     
 #### ⏸️ Partially read: wanna-come-back or paused
