@@ -30,7 +30,6 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 
 #### ⏯️ Active
 
-- The Software Craftsman: Professionalism, Pragmatism, Pride - Sandro Mancuso
 - Peopleware: Productive Projects and Teams - Tom DeMarco, Tim Lister
 - Planning Extreme Programming - Kent Beck, Martin Fowler
                     
@@ -43,6 +42,7 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 #### 💜 Loved-ones 
 
 - IdeaFlow - Arty Starr
+- The Software Craftsman: Professionalism, Pragmatism, Pride - Sandro Mancuso
 - Tidy First - Kent Beck
 - Extreme Progamming Explained 2nd edition - Kent Beck
 - TDD by Example - Kent Beck
