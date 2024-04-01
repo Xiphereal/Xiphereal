@@ -30,7 +30,6 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 
 #### ⏯️ Active
 
-- Peopleware: Productive Projects and Teams - Tom DeMarco, Tim Lister
 - Planning Extreme Programming - Kent Beck, Martin Fowler
                     
 #### ⏸️ Partially read: wanna-come-back or paused
@@ -41,6 +40,7 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 
 #### 💜 Loved-ones 
 
+- Peopleware: Productive Projects and Teams - Tom DeMarco, Tim Lister
 - IdeaFlow - Arty Starr
 - The Software Craftsman: Professionalism, Pragmatism, Pride - Sandro Mancuso
 - Tidy First - Kent Beck
