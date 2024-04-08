@@ -31,6 +31,7 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 #### ⏯️ Active
 
 - Planning Extreme Programming - Kent Beck, Martin Fowler
+- Release It! - Michael T. Nygard
                     
 #### ⏸️ Partially read: wanna-come-back or paused
 
