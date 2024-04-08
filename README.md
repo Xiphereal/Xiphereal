@@ -52,5 +52,5 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 - Ensemble Programming Guidebook - Maaret Pyhäjärvi
 - The Unified Sofware Development Process - Ivar Jacobson, Grady Booch, James Rumbaugh
 - UML distilled 3rd edition - Martin Fowler
-- Domain-Drive Design - Eric Evans
+- Domain-Driven Design - Eric Evans
 - Refactoring - Martin Fowler, Kent Beck
