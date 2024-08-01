@@ -30,11 +30,12 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 
 #### ⏯️ Active
 
-- Planning Extreme Programming - Kent Beck, Martin Fowler
-- Release It! - Michael T. Nygard
+- Continuous Discovery Habits - Teresa Torres
+- The Pragmatic Programmer - Dave Thomas, Andrew Hunt
                     
 #### ⏸️ Partially read: wanna-come-back or paused
 
+- Planning Extreme Programming - Kent Beck, Martin Fowler
 - Working Effectively with Legacy Code - Michael Feathers
 - The Mythical Man-Month - Fred Brooks
 - Growing Object Oriented Software Guided by Tests - Steve Freeman, Nat Price
