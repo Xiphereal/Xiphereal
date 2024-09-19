@@ -30,8 +30,8 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 
 #### ⏯️ Active
 
-- Continuous Discovery Habits - Teresa Torres
-- The Pragmatic Programmer - Dave Thomas, Andrew Hunt
+- Software Economics - Luis Artola
+- El libro negro del programador - Rafael Gómez Blanes
                     
 #### ⏸️ Partially read: wanna-come-back or paused
 
@@ -42,6 +42,8 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 
 #### 💜 Loved-ones 
 
+- Continuous Discovery Habits - Teresa Torres
+- The Pragmatic Programmer - Dave Thomas, Andrew Hunt
 - Peopleware: Productive Projects and Teams - Tom DeMarco, Tim Lister
 - IdeaFlow - Arty Starr
 - The Software Craftsman: Professionalism, Pragmatism, Pride - Sandro Mancuso
