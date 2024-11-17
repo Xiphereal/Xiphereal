@@ -30,15 +30,7 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 
 #### ⏯️ Active
 
-- Software Economics - Luis Artola
-- El libro negro del programador - Rafael Gómez Blanes
-                    
-#### ⏸️ Partially read: wanna-come-back or paused
-
-- Planning Extreme Programming - Kent Beck, Martin Fowler
-- Working Effectively with Legacy Code - Michael Feathers
-- The Mythical Man-Month - Fred Brooks
-- Growing Object Oriented Software Guided by Tests - Steve Freeman, Nat Price
+[Check my Goodreads](https://www.goodreads.com/review/list/180067137?shelf=currently-reading)
 
 #### 💜 Loved-ones 
 
