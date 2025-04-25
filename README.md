@@ -19,6 +19,7 @@ I'm a software developer by day but game developer by heart ❤️. I consider m
 <img align="left" width="26px" height="26px" title="GitHub" alt="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
 <img align="left" width="26px" height="26px" title="MarkDown" alt="MarkDown" src="https://user-images.githubusercontent.com/11347395/130453553-322c1932-e148-461e-b62f-c103f564b9b5.png" />
 <img align="left" width="24px" height="26px" title="UML" alt="UML" src="https://joanpaon.files.wordpress.com/2013/05/uml-symbol.gif" />
+<img align="left" width="64px" height="26px" title="Mermaid" alt="Mermaid" src="https://mermaid.js.org/favicon.svg" />
 
 <br/>
 
